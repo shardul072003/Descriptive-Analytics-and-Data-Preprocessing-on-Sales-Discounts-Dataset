@@ -1,0 +1,2 @@
+# Descriptive-Analytics-and-Data-Preprocessing-on-Sales-Discounts-Dataset
+A Jupyter Notebook demonstrating Exploratory Data Analysis (EDA) and descriptive statistics on a Sales &amp; Discounts dataset. This project showcases the ability to compute statistical measures and create effective data visualizations (histograms, boxplots, and bar charts) to uncover business insights and identify data anomalies.
